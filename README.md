@@ -6,25 +6,28 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>  Software Testing and Tools - G4 </h2>
+  <h2>Software_Testing_Tools - G4 </h2>
 </div>
 
-Welcome to the SURE Trust G4 Software Testing and Tools  Training repository. This repository serves as a central hub for all materials and resources related to the training course during the fourth batch of training Software Testing and Tools Training course.
+Welcome to the SURE Trust G4 G4_Software_Testing_Tools Training repository. This repository serves as a central hub for all materials and resources related to the training course during the twenty seventh batch of training G4_Software_Testing_Tools Training course.
 
 ## About SURE Trust
 
 SURE Trust is a registered NGO committed to eradicating the disparity between skills acquired through academia and those demanded by industries. SURE Trust equips educated unemployed youth, particularly in rural sectors, with the essential proficiencies required to thrive in an ever-evolving job landscape by offering cross-disciplinary training at no cost. Recognizing the importance of accessible, high-quality training in today's technology-driven world, SURE Trust addresses the upcoming shift with nearly half of India's population projected to live in rural areas by 2050. This change emphasizes the crucial necessity for empowering the rural workforce, which constitutes a substantial 70% of the total workforce. The vision of SURE Trust encompasses not just technical skills but also instilling human values and awakening the instinct of giving back to society through its 'Services to Community' programs. 
 
-## Software Testing and Tools Course Registration
+## G4_Software_Testing_Tools Course Registration
 
-To enroll in the Software Testing and Tools, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
+To enroll in the G4_Software_Testing_Tools, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
-
-
+|StudentName | link|
+|------------|------|
+|Kameswari|[Click here](https://github.com/sure-trust/G4_Software_Testing_Tools/blob/main/Course%20Report/Kameswari%20Pendyala.md)|
+|Kavya|[Click here](https://github.com/sure-trust/G4_Software_Testing_Tools/blob/main/Course%20Report/Kavya.md)|
+|Kiran|[Click here](https://github.com/sure-trust/G4_Software_Testing_Tools/blob/main/Course%20Report/kiran.md)|
 
 ## Repository Description
 
-This repository is designed to support the G4 Software Testing and Tools  program at SURE Trust. It follows the below mentioned organization structure:
+This repository is designed to support the G4 G4_Software_Testing_Tools program at SURE Trust. It follows the below mentioned organization structure:
 
 - *Mini Projects*: A repository holding code files of the mini projects undertaken during the course.
 - *Final Project*: A comprehensive compilation of code files and resources of the final projects.
