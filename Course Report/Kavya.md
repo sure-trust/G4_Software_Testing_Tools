@@ -23,6 +23,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Flight booking application testcases,SQL,Java programs     | [click here] (https://github.com/sure-trust/G4_Software_Testing_Tools/tree/main/Mini%20Projects/Kavya)                        |
-| Final Project: Facebook application testcases,Selenium using java,TestNG,Apache poi     | [click here] (https://github.com/sure-trust/G4_Software_Testing_Tools/tree/main/Final%20Capstone%20Projects/Kavya)                         |
+| Mini Projects: Flight booking application testcases,SQL,Java programs     | [click here](https://github.com/sure-trust/G4_Software_Testing_Tools/tree/main/Mini%20Projects/Kavya)                        |
+| Final Project: Facebook application testcases,Selenium using java,TestNG,Apache poi     | [click here](https://github.com/sure-trust/G4_Software_Testing_Tools/tree/main/Final%20Capstone%20Projects/Kavya)                         |
 +
